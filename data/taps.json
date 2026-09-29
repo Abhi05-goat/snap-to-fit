@@ -1,0 +1,19 @@
+{
+  "data/shoerack.jpeg": {
+    "type": "item",
+    "sheet_px": [[561, 879], [782, 1023], [476, 1273], [261, 1060]],
+    "item_click": [740, 400]
+  },
+  "data/doorframe.jpg": {
+    "type": "space",
+    "kind": "opening",
+    "sheet_px": [[215, 1358], [350, 1387], [270, 1438], [95, 1388]],
+    "space_input": [[140, 1295], [605, 1345], [390, 80], [390, 1295]]
+  },
+  "data/cupboard_space.jpg": {
+    "type": "space",
+    "kind": "floor",
+    "sheet_px": [[285, 745], [620, 825], [510, 1075], [100, 995]],
+    "space_input": [750, 700]
+  }
+}

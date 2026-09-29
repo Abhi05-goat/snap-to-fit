@@ -1,0 +1,4 @@
+file,kind,L,W,H,width,depth_or_height
+data/shoerack.jpeg,item,47.0,19.0,59.0,,
+data/doorframe.jpg,opening,,,,81.0,203.0
+data/cupboard_space.jpg,floor,,,,52.0,50.0
